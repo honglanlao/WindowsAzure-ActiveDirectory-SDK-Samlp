@@ -1,0 +1,14 @@
+D:\eclipse_workspace\WindowsAzure-ActiveDirectory-SDK-Samlp\src\main\java\com\microsoft\windowsazure\activedirectory\sdk\samlp\URLUTF8Encoder.java
+D:\eclipse_workspace\WindowsAzure-ActiveDirectory-SDK-Samlp\src\main\java\com\microsoft\windowsazure\activedirectory\sdk\samlp\SAMLUtil.java
+D:\eclipse_workspace\WindowsAzure-ActiveDirectory-SDK-Samlp\src\main\java\com\microsoft\windowsazure\activedirectory\sdk\samlp\FederatedAuthenticationListener.java
+D:\eclipse_workspace\WindowsAzure-ActiveDirectory-SDK-Samlp\src\main\java\com\microsoft\windowsazure\activedirectory\sdk\samlp\FederatedLoginManager.java
+D:\eclipse_workspace\WindowsAzure-ActiveDirectory-SDK-Samlp\src\main\java\com\microsoft\windowsazure\activedirectory\sdk\samlp\Constants.java
+D:\eclipse_workspace\WindowsAzure-ActiveDirectory-SDK-Samlp\src\main\java\com\microsoft\windowsazure\activedirectory\sdk\samlp\ConfigurableFederatedLoginManager.java
+D:\eclipse_workspace\WindowsAzure-ActiveDirectory-SDK-Samlp\src\main\java\com\microsoft\windowsazure\activedirectory\sdk\samlp\TrustedIssuersRepository.java
+D:\eclipse_workspace\WindowsAzure-ActiveDirectory-SDK-Samlp\src\main\java\com\microsoft\windowsazure\activedirectory\sdk\samlp\FederatedPrincipal.java
+D:\eclipse_workspace\WindowsAzure-ActiveDirectory-SDK-Samlp\src\main\java\com\microsoft\windowsazure\activedirectory\sdk\samlp\SAMLConsumer.java
+D:\eclipse_workspace\WindowsAzure-ActiveDirectory-SDK-Samlp\src\main\java\com\microsoft\windowsazure\activedirectory\sdk\samlp\Claim.java
+D:\eclipse_workspace\WindowsAzure-ActiveDirectory-SDK-Samlp\src\main\java\com\microsoft\windowsazure\activedirectory\sdk\samlp\FederationException.java
+D:\eclipse_workspace\WindowsAzure-ActiveDirectory-SDK-Samlp\src\main\java\com\microsoft\windowsazure\activedirectory\sdk\samlp\TrustedIssuer.java
+D:\eclipse_workspace\WindowsAzure-ActiveDirectory-SDK-Samlp\src\main\java\com\microsoft\windowsazure\activedirectory\sdk\samlp\SamlTokenValidator.java
+D:\eclipse_workspace\WindowsAzure-ActiveDirectory-SDK-Samlp\src\main\java\com\microsoft\windowsazure\activedirectory\sdk\samlp\FederatedConfiguration.java
